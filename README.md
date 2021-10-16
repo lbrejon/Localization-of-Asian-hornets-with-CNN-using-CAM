@@ -8,7 +8,7 @@ Detection and localization of Asian hornets using PyTorch
 * [Description](#description)
 * [Sources](#sources)
 
-Estimated reading time : ⏱️ 5min
+Estimated reading time : ⏱️ 2min
 
 ## My goals 🎯
 - Deepen knowledge in Computer Vision with CNNs (ResNet18)
