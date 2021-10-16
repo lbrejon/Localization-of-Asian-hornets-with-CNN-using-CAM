@@ -1,4 +1,4 @@
-# Localization-of-Asian-hornets-by-fine-tuned-CNN
+# Localization-of-Asian-hornets-with-CNN-using-CAM
 Detection and localization of Asian hornets using PyTorch
 
 ## Table of contents 📝
