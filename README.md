@@ -1,5 +1,5 @@
 # Localization-of-Asian-hornets-by-fine-tuned-CNN
-Detection and localization of Asian hornets by fine-tuned CNN using PyTorch
+Detection and localization of Asian hornets using PyTorch
 
 ## Table of contents 📝
 * [My goals](#my-goals)
